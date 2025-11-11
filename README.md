@@ -53,8 +53,8 @@ mlb-sql-analysis/
 │ ├── q2_batting_percentage_by_team.sql
 │ └── q3_height_weight_by_decade.sql
 │
-└── outputs/ (optional)
-└── preview_tables/
+└── outputs/
+
 ```
 
 
