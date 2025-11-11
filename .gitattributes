@@ -1,2 +1,2 @@
-queries/* linguist-documentation=false
-queries/* linguist-vendored
+queries/** linguist-documentation=false
+queries/** linguist-vendored
