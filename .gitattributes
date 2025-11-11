@@ -1,2 +1,1 @@
-queries/** linguist-documentation=false
-queries/** linguist-vendored
+*.sql linguist-language=SQL
