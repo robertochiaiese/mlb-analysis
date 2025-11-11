@@ -58,7 +58,7 @@ mlb-sql-analysis/
 ```
 
 
-**
+
 ## 🚀 How to Run
 
 1. Install MySQL or a compatible SQL engine.  
@@ -123,4 +123,4 @@ USE MLBdb;
 **Roberto Chiaiese**  
 Bioinformatics & Data Engineering Student  
 
-LinkedIn: [*[add link here](https://www.linkedin.com/in/roberto-chiaiese-7b90b8248/)*]
+LinkedIn: *[Roberto Chiaiese](https://www.linkedin.com/in/roberto-chiaiese-7b90b8248/)*
