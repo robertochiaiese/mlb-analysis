@@ -1,5 +1,5 @@
 /* -----------------------------------------------------------------
----- For each player, calculate their age at their first (debut)----
+---- For each player, show their age at their first (debut)----
 ---------- game, their last game, and their career length ----------
 ----------------------------------------------------------------- */
 
