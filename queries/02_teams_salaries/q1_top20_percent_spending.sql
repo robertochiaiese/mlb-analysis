@@ -2,7 +2,7 @@
 ----------TTop 20% of teams in terms of average annual spending-----------
 ------------------------------------------------------------------------- */
 
-USE MBLdb;
+USE MLbdb;
 
 WITH total_salaries AS (SELECT  yearID, teamID, SUM(salary) AS total_salary
 						FROM 	salaries
