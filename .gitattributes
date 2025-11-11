@@ -1,2 +1,12 @@
-data/** linguist-vendored=false
+# Force SQL detection
+*.sql linguist-detectable=true
 *.sql linguist-language=SQL
+*.sql linguist-vendored=false
+
+# Ensure 'data' folder is scanned
+data/** linguist-vendored=false
+data/** linguist-detectable=true
+
+# Ensure SQL in nested folders is not ignored
+queries/** linguist-vendored=false
+queries/** linguist-detectable=true
