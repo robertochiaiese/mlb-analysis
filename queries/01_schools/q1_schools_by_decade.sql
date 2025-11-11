@@ -1,6 +1,7 @@
 /* ---------------------------------------------------------
 -- In each decade, how many schools produced MLB players? --
 ---------------------------------------------------------- */
+USE MLBdb;
 
 SELECT 	
 	FLOOR(yearID / 10) * 10 AS decade, COUNT( DISTINCT schoolID) AS num_schools
