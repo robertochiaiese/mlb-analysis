@@ -1,6 +1,7 @@
-/* ---------------------------------------------------------
--- In each decade, how many schools produced MLB players? --
----------------------------------------------------------- */
+/* -----------------------------------------------------------------
+---- For each player, calculate their age at their first (debut)----
+---------- game, their last game, and their career length ----------
+----------------------------------------------------------------- */
 
 USE MLBdb;
 
