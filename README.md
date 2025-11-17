@@ -1,4 +1,4 @@
-# 📊 MLB SQL Analysis Project
+#  MLB SQL Analysis Project
 **Author:** Roberto Chiaiese  
 **Type:** SQL Data Analysis  
 **Database:** MLB (Major League Baseball)  
@@ -6,23 +6,23 @@
 
 ---
 
-## 🧠 Overview
+##  Overview
 
 This project analyzes MLB (Major League Baseball) data using SQL.  
 The goal is to extract meaningful insights on:
 
-- 🏫 Schools that produced MLB players  
-- 💰 Team spending behavior  
-- 🧍 Player career trajectories  
-- 📅 Decade-level trends  
-- ⚾ Batting and demographic characteristics  
+- Schools that produced MLB players  
+-  Team spending behavior  
+-  Player career trajectories  
+- Decade-level trends  
+-  Batting and demographic characteristics  
 
 Queries are modularized and organized in separate folders for clarity and maintainability.  
 The dataset is initialized via a dedicated SQL file included in the `data/` directory.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 mlb-sql-analysis/
@@ -59,7 +59,7 @@ mlb-sql-analysis/
 
 
 
-## 🚀 How to Run
+##  How to Run
 
 1. Install MySQL or a compatible SQL engine.  
 2. Load the MLB dataset in mySQL.
@@ -72,7 +72,7 @@ USE MLBdb;
 4. Execute any of the SQL files inside the queries/ directory.
 
 
-## ✅ SQL Techniques Demonstrated
+##  SQL Techniques Demonstrated
 
 ### 🔹 Window Functions
 - `ROW_NUMBER()`
@@ -102,23 +102,23 @@ USE MLBdb;
 
 ---
 
-## 🎯 Example Insights
+##  Example Insights
 
-### 🏫 Schools
+###  Schools
 - The number of schools producing MLB players steadily increases across decades.  
 - Only a few schools dominate in player production.
 
-### 💰 Spending Behavior
+###  Spending Behavior
 - The top 20% of MLB teams spend dramatically more than the median.  
 - Teams surpass the $1B cumulative spending mark at very different times.
 
-### 🧍 Player Careers
+###  Player Careers
 - Most players start and end on different teams.  
 - Only a small subset plays more than a decade on the same team.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Roberto Chiaiese**  
 Bioinformatics & Data Engineering Student  
