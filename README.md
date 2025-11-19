@@ -121,6 +121,6 @@ USE MLBdb;
 ##  Contact
 
 **Roberto Chiaiese**  
-Bioinformatics & Data Engineering Student  
+
 
 LinkedIn: *[Roberto Chiaiese](https://www.linkedin.com/in/roberto-chiaiese-7b90b8248/)*
